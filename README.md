@@ -13,7 +13,12 @@ Projem üniversitedeki öğrencileri hedef aldı.
 
 ### Projenin kazandırdıkları
 
-Projeyi yaparken vısual studıo form elemanlarını kullandım. Mssql veri işlemlerini kullandım. Veri çekme,veri kaydetme,veri güncelleme işlemlerini yaptım. Veri tabanına resimin yolunu kaydettim. Webden veri çektim ve bu verinin anlamlı bir hale gelmesini sağladım. Visual studio setting dosyasını kullandım.
+-Projeyi yaparken vısual studıo form elemanlarını kullandım. 
+-Mssql veri işlemlerini kullandım. 
+-Veri çekme,veri kaydetme,veri güncelleme işlemlerini yaptım. 
+-Veri tabanına resimin yolunu kaydettim. 
+-Webden veri çektim ve bu verinin anlamlı bir hale gelmesini sağladım. 
+-Visual studio setting dosyasını kullandım.
 
 Proje esnasında webden çektiğim verileri nasıl anlamdırıcağım konusunda zorlandım. Htmlagility pack hakkında ayrıntılı araştırma yapmak işimi kolaylaştırdı. Bir programlama dili içinde başka dile ait kodların filtrrelene bileceğini anladım. 
 
