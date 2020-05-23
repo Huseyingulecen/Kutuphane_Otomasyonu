@@ -32,7 +32,7 @@ Kullanıcı girişinde ilk olarak kullanıcı idsını (TC) ve şifresini girer 
 Aynı zamanda bu formda kullanıcılardan kitap getirme süresini (15 gün )geçenlere otomatik olarak her 5 günde bir mail atılır .
 
 ### Kullanıcı Formu 
-![Kullanıcı_Formu](Kullanıcı_Formu.png)
+![https://github.com/Huseyin98/Kutuphane_Otomasyonu/blob/master/ekran_fotosu/Kullan%C4%B1c%C4%B1_Formu.PNG]
 
 Kullanıcı şifre ve id girişini sağladıktan sonra kullanıcı formuna gidilir.Bu formda kullanıcı çıkışı tıkladığında şifre ve ıd kontrol formuna gider. Ana sayfayı tıkladığında yöbetici,kullanıcı ve üye ekleme seçiinin yapıldığı forma gider. Eğer kullanıcı çarpıya basıp çıkarsa kullanıcının uygulmayı kapatıp açtığında tekrar şifre ve id girmesine gerek yoktur. Kullanıcı ıdsı setting dosyasında tutulur.
 
