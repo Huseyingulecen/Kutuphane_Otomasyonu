@@ -50,7 +50,7 @@ Ayarlar kısmında uygulamaya aıt arka plan rengi ve yazı tipini değiştirebi
 Yönetici girişinde ilk olarak kullanıcı idsını (TC) ve şifresini girer eğer yönetici adı doğru değilse yönetici idinizi kontrol ediniz uyarısı gelir eğer yönetici idisi var yönetici şifresi doğru değilse şifrenizi kontrol ediniz uyarısı ekrana gelir.
 
 ### Yönetici Formu 
-![Yönetici_Formu](Yönetici_Formu.png)
+![Yönetici_Formu](https://github.com/Huseyin98/Kutuphane_Otomasyonu/blob/master/ekran_fotosu/Y%C3%B6netici_Formu.PNG)
 
 Eser kaydetmede kullancıların görebileceği kitapları database eklenir. Burda kitabın yazarı, kitabın ismi,kitabın yayınevi, kitabın yayın yılı , kitabın kategorisi , kitabın türünü yöneticinin girmesini bekleriz. Yöbetici eğer isterse kitaba resim de ekleye bilir. Bu ğzellikler kitapların tutulduğu tabloda kayıt edilir ve kitaba bir ıd verilir bu ıd kayıt islenminin sonunda yöneticiye gösterilir ve yöneticinin bu idyi kitabın üstüne yazması beklernir.
 
@@ -63,6 +63,6 @@ Kitabı zamanında getirmeyenler kısmında kullanıcılardan 15 günü geçtiğ
 Yeni yönetici ekleme bölümünde çalışmaya yeni başlamış bir yönetici eklememiz sağlar. Bu sırada girilen ıd(TC ) ile önceden kayıt yapıllmış mı diye kontrol eder eğer kayıt işlemi yapıldıysa bu yöneticinin kaydının yapıldığı uyarısı ekraa gelir. Eğer böle bir yönetici yoksa eklenen yöneticinin mail ve telefon bilgileri kontrol edilir ve şifreler arasındaki tutarlılık kontrol edilir eğer sşfre bölümü ve şifre tekrarı bölümüne girilen şifreler aynı değilse ekrana uyarı mesajı gelir.
 
 ### Üye Formu  
-![Uye_Ol_Formu](Uye_Ol_Formu.png)
+![Uye_Ol_Formu]()
 
 Bu formda kullanıcılar eğer üye değilse burdan üye olurlar. Id (TC) kontrolu yapılır TC formatını sağlamayn ifadeler uyarı verir. Mail adresi mail formatında mı dşye kontroledilir mail formatında olmayan ifadeler uyarı mesajı verir. Telefon numarası telefon numarası mı dşye kontrol edilir formatı sağlamayan ifadeler uyarı mesajı verirler. Şifre ile şifre tekrarı uyuşmassa uyarı mesajı verir.
