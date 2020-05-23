@@ -12,7 +12,7 @@ Projenin web ve mobilini gelistirmem durumunda daha kullanılabilir ve daha taş
 Projem üniversitedeki öğrencileri hedef aldı.
 
 ### Projenin kazandırdıkları
-
+- The workspace synchronization will sync all your files, folders and settings automatically. This will allow you to fetch your workspace on any other device.
 -Projeyi yaparken vısual studıo form elemanlarını kullandım. 
 -Mssql veri işlemlerini kullandım. 
 -Veri çekme,veri kaydetme,veri güncelleme işlemlerini yaptım. 
